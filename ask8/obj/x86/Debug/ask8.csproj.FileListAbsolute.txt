@@ -1,0 +1,11 @@
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\bin\Debug\ask8.exe.config
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\bin\Debug\ask8.exe
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\bin\Debug\ask8.pdb
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\obj\x86\Debug\ask8.csprojResolveAssemblyReference.cache
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\obj\x86\Debug\ask8.Form1.resources
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\obj\x86\Debug\ask8.Properties.Resources.resources
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\obj\x86\Debug\ask8.csproj.GenerateResource.Cache
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\obj\x86\Debug\RdlCompile.cache
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\obj\x86\Debug\RdlCompile.compiled
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\obj\x86\Debug\ask8.exe
+C:\Users\makrk\OneDrive\Υπολογιστής\ΕΑΡ 2021\Ειδικά θέματα βάσεων δεδομένων - Ε\Εγρασίες\8η εργασία\ask8\ask8\obj\x86\Debug\ask8.pdb
